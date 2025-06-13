@@ -1,6 +1,6 @@
 
 # Amplicon
-![NASA GeneLab Amplicon Pipeline](./amplicon/amplicon_metro_map.png)
+![NASA GeneLab Amplicon Pipeline](./amplicon/GL-amplicon-subwayplot.png)
 
 
 <br> 
