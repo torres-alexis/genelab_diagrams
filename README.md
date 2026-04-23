@@ -15,5 +15,5 @@
 
 # Metagenomics
 
-![NASA GeneLab Metagenomics Subway Plot](./metagenomics/GL-metagenomics-subwayplot.svg)
-![NASA GeneLab Metagenomics Subway Plot 2 line](./metagenomics/GL-metagenomics-subwayplot_double_line.svg)
+![NASA GeneLab Metagenomics Subway Plot](./metagenomics/GL-metagenomics-subwayplot.png)
+![NASA GeneLab Metagenomics Subway Plot 2 line](./metagenomics/GL-metagenomics-subwayplot_double_line.png)
